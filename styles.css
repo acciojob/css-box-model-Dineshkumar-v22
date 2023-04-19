@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+div {
+	border : 15px solid rgb(0,0,255);
+	padding : 50px;
+	background-color : rgb(173, 216, 230);
+	margin : 20px;
+	width : 300px;
+}
